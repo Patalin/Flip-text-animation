@@ -11,10 +11,10 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-.waviy {
+.loading {
   position: relative;
 }
-.waviy span {
+.loading span {
   position: relative;
   display: inline-block;
   font-size: 40px;
