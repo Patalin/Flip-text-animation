@@ -21,7 +21,7 @@ body {
   color: #fff;
   text-transform: uppercase;
   animation: flip 2s infinite;
-  animation-delay: calc(.2s * var(--i))
+  animation-delay: calc(.2s * var(--letter))
 }
 @keyframes flip {
   0%,80% {
